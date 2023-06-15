@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciraos)](https://github.com/anuraghazra/github-readme-stats) -->
+![ciraos' GitHub stats](https://ciraos-github-readme-stats.vercel.app/api?username=ciraos&show_icons=true)
+
+[![Top Langs](https://ciraos-github-readme-stats.vercel.app/api/top-langs/?username=ciraos)](https://github.com/anuraghazra/github-readme-stats)
