@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ciraos' GitHub stats](https://ciraos-github-readme-stats.vercel.app/api?username=ciraos&show_icons=true)
+<!-- ![ciraos' GitHub stats](https://ciraos-github-readme-stats.vercel.app/api?username=ciraos&show_icons=true) -->
 
-[![Top Langs](https://ciraos-github-readme-stats.vercel.app/api/top-langs/?username=ciraos)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://ciraos-github-readme-stats.vercel.app/api/top-langs/?username=ciraos)](https://github.com/anuraghazra/github-readme-stats) -->
