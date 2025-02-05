@@ -1,3 +1,5 @@
+![Redmi K80](k80.avif)
+
 ### Hi there 👋
 
 I am Ciraos.
